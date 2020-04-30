@@ -2,7 +2,7 @@
 <br />How to use?<br />
 <br />1.Extract file zip<br />
 <br />2.Open project from NetBeans IDE<br />
-<br />3.Run code from file in <default package><br />
+<br />3.Run code from file in (default package)<br />
 <br />Source Code<br />
 <br />1.Input ID and Hour<br />
 <br />2.Click "Pay" Button<br />
